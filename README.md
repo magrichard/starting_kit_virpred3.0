@@ -1,5 +1,5 @@
 Secret URL is: 
-https://competitions.codalab.org/competitions/25357?secret_key=3a54cc71-6bbf-4e30-bf98-e9ec502853bf
+https://competitions.codalab.org/competitions/28103?secret_key=fcd00f30-4767-45cf-b84a-48f31425d7f5
 
 And an extented starting kit including a guided report there:
 https://github.com/magrichard/starting_kit_virpred3.0
