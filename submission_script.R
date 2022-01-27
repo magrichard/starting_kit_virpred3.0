@@ -156,7 +156,7 @@ alternative_programs = list(
 
 generate_submission_files = function(program, data_train, data_test, prefix) {
   if (missing(prefix)) {
-    prefix = format(x = Sys.time( ), format = "%Y-%m-%d_%H:%M:%S")
+    prefix = format(x = Sys.time( ), format = "%Y-%m-%d_%H_%M_%S")
   }
   # we use the previously defined function 'program' to estimate A :
   data_pred <- program(
